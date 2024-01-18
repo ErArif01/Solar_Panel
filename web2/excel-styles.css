@@ -1,0 +1,22 @@
+/* excel-styles.css */
+
+#uploaded-data {
+    margin-top: 2em;
+}
+
+#data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1em;
+}
+
+#data-table th, #data-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#data-table th {
+    background-color: #007BFF;
+    color: #fff;
+}
